@@ -2,7 +2,7 @@
 
 #include <iostream>
 
-inline int main() {
+int main() {
 
      int i=100;
     // 输出 "Hello, World!"

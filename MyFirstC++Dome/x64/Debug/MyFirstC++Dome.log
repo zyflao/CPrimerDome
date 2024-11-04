@@ -1,7 +1,2 @@
 ﻿  HelloWorld.cpp
-D:\Users\Administrator\source\repos\MyFirstC++Dome\MyFirstC++Dome\HelloWorld.h(6,5): error C2065: “Console”: 未声明的标识符
-  (编译源文件“HelloWorld.cpp”)
-  
-D:\Users\Administrator\source\repos\MyFirstC++Dome\MyFirstC++Dome\HelloWorld.h(6,30): error C2065: “Encoding”: 未声明的标识符
-  (编译源文件“HelloWorld.cpp”)
-  
+  MyFirstC++Dome.vcxproj -> D:\Users\Administrator\source\repos\MyFirstC++Dome\x64\Debug\MyFirstC++Dome.exe
