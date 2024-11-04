@@ -2,7 +2,7 @@
 #pragma once
 
 #include <iostream>
-int Main() {
+inline int main() {
     
     int i=1;
     // 输出 "Hello, World!"
